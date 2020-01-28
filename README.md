@@ -14,7 +14,7 @@ The main screen should have a button to refresh the list.
 
 A good article to get started: https://facebook.github.io/react/docs/thinking-in-react.html
 
-The Giphy API docs: https://github.com/Giphy/GiphyAPI
+The Giphy API docs: https://developers.giphy.com/
 
 
 [:truck: Happy coding! :truck:](http://media1.giphy.com/media/2G4flVpbo6RmE/giphy.gif)
